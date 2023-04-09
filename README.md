@@ -1,2 +1,2 @@
 # composition-notebook
-A collection of examples that 
+Spring Practice One: initilizing a spring boot project with the ability to connect to a SQL server
